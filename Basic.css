@@ -1,0 +1,376 @@
+/* CSS Document */
+body{
+	font-family:Tahoma,Microsoft Sans Serif;
+	font-size:16px;
+	color:#5A5A5A;/*# A~F 0-9 */
+	margin:5px 0px 5px 0px;
+	}
+.boxinaboutsus {
+	background:url(pic/image/%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B9%80%E0%B8%97%E0%B8%B2%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%AA.png);
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+}
+	
+.box table tr td p {
+	font-size: 36px;
+}
+.box table tr td {
+	font-size: 24px;
+}
+#padding-top {
+	padding-top: 900px;
+}
+.box p img {
+	text-align: center;
+	margin-left: 220px;
+}
+div {
+    display: block;
+}
+.margintop10{
+	margin-top: 10px;
+}
+.imagebtn{
+	background-image:url(pic/image/overwatch___tracer__1080p__by_neonkiler99-d964v95.jpg);
+	height:600px;
+	position:relative;
+	}
+/*btnlinkgame*/
+.btnlinkgame{
+	position: absolute;
+	width: 300px;
+	height: 50px;
+	left: 509px;
+	top: 335px;
+	}
+.imagebtn #btngowebgame{
+	top: 500px;
+	left: 20px;
+	z-index: 1;
+	background-color:#FF8600;
+	}
+#btngowebgame a{
+	color:#F1F1F1;
+	}
+#btngowebgame a:hover{
+	color:#525151;
+	}
+/*btnlinkgame*/
+
+
+
+
+.full-wrapper, .wrapper {
+    width: 90%;
+    margin: 0 auto;
+}
+.header-menu .header-menu--txt-box .btn {
+    margin-left: 17px;
+}
+
+
+.btn-signup-header2 {
+    font-size: 16px;
+    padding: 8px 24px;
+}
+.btn {
+    font-size: 14px;
+    text-shadow: none;
+    -moz-text-shadow: none;
+    box-shadow: none;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    padding: 10px 24px;
+    letter-spacing: 0;
+    border-color: #28D2AF;
+    background: #FFF;
+    color: #28D2AF;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+    text-transform: capitalize!important;
+}
+.btn.outline {
+    border-color: #28D2AF;
+    background: #28D2AF;
+    color: #28D2AF;
+}
+.btn, .form-group, .form-group.icon, .position-relative {
+    position: relative;
+}
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.getlinks-table {
+    display: table;
+    width: 100%;
+}
+header, header .getlinks-table {
+    height: 60px;
+}
+.full-wrapper, .wrapper {
+    width: 90%;
+    margin: 0 auto;
+}
+
+
+
+
+/*btnlinkbuy*/
+.btnlinkbuygame{
+position: absolute;
+	width: 300px;
+	height: 50px;
+	left: 509px;
+	top: 335px;
+}
+.imagebtn #btngobuygame{
+	top: 500px;
+	left: 1080px;
+	z-index: 1;
+	background-color:#FF8600;
+	}
+#btngobuygame a{
+	color:#F1F1F1;
+	}
+#btngobuygame a:hover{
+	color:#525151;
+	}
+/*btnlinkbuy*/
+
+/* picsale*/
+.picsale{
+	position: absolute;
+	width: 300px;
+	height: 50px;
+	left: 509px;
+	top: 335px;
+}
+.imagebtn #picsale1{
+	top: 300px;
+	left: 1500px;
+	z-index: 1;
+}
+.imagebtn #picsale2{
+	top: 340px;
+	left: 1350px;
+	z-index: 1;
+}
+.imagebtn #picsale3{
+	top: 340px;
+	left: 1650px;
+	z-index: 1;
+}
+/* picsale*/
+
+
+#img-top-menu{
+background-image:url(./pic/BG/ow2.jpg);
+width:100%;
+height:400px;
+boder:1px #c9c9c9 solid;
+margin:15px auto 15px auto;
+position:relative;
+	z-index: -998;
+}
+.herostand{
+	position: absolute;
+	width: 200px;
+	height: 300px;
+	left: 509px;
+	top: 335px;
+}
+#img-top-menu #gengi{
+	top: 10px;
+	left: 150px;
+	z-index: 1;
+}
+#img-top-menu #hanzo{
+	top: 15px;
+	left: 250px;
+	z-index: 2;
+}
+#img-top-menu #zenyatta{
+	top: -20px;
+	left: 550px;
+	z-index: 3;
+}
+
+#img-top-menu #pharah{
+	top: 15px;
+	left: 1500px;
+	z-index: 1;
+}
+#img-top-menu #zarya{
+	top: -5px;
+	left: 1320px;
+	z-index: 2;
+}
+#img-top-menu #reinhardt{
+	top: -50px;
+	left: 850px;
+	z-index: 3;
+}
+
+
+#img-top-menu #positionlogo{
+	position: absolute;
+	width: 23px;
+	height: 42px;
+	left: 740px;
+	top: 190px;
+	z-index: 999
+}
+.nav-new{
+    margin-top: 0px;
+    
+}
+
+#full-screen-background-image {
+  z-index: -999;
+  min-height: 100%;
+  min-width: 1024px;
+  width: 100%;
+  height: auto;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+#container-fluid #bs-example-navbar-collapse-1 #brand-OW-logo{
+  z-index: 999;
+  width: 100%;
+  height: auto;
+  top: 236px;
+	left: 741px;
+}
+h1{
+	text-align:center;
+	font-size:24px;
+	}
+h2{
+	text-align:left;
+	font-size:22px;
+	margin-bottom:5px;
+	}
+h3{
+	text-align:left;
+	font-size:20px;
+	}
+a ,a:visited{
+	color:#FF0004;
+	}
+a:hover{
+	color:#3C3C3C;
+	text-decoration:underline;
+	}
+#navMenu {
+    margin:0;
+    width:auto;
+ }
+
+  #navMenu ul {
+    margin:0;
+    padding:0;
+    line-height:30px;
+ }
+
+  #navMenu li {
+    margin:0;
+    padding:0;
+    list-style:none;
+    float:left;
+    position:relative;
+    background:#999;
+ }
+
+  #navMenu ul li a {
+    text-align:center; 
+    height:30px;
+    width:150px;
+    display:block;
+    color:#000;
+    font-family:"Comic Sans MS", cursive;
+    text-decoration:none;
+    color:#FFF;
+    border:0px solid #FFF;
+    text-shadow:1px 1px 1px #000; 
+ }
+
+ /*********************************************/
+ /* hide menu and allow it to return */
+ /*********************************************/
+
+	#navMenu ul ul {
+	position:absolute;
+	visibility:hidden;
+	top:32px;
+ }
+
+  #navMenu ul li:hover ul {
+    visibility:visible;
+    z-index:9999; 
+ }
+
+  /**********************************************/
+
+  /*sets top level hover color*/
+
+  #navMenu li:hover {
+   background:#09F;
+ }
+
+  /*sets link items hover color and background*/
+
+  #navMenu ul li:hover ul li a:hover {
+    color:#000;
+    background:#CCC;
+ }
+
+  /* Changes text color on hover for main menu hover*/
+
+  #navMenu a:hover {   
+  color:#000;
+ } 
+  
+ /* Contains the Float */
+
+ .clearFloat {
+    clear:both; 
+    margin:0;
+    padding:0;
+ }
+
+ /* IE7 Display Fix */
+
+ #navMenu ul li { 
+
+  display: inline; 
+ 
+ }
+.submitgoogle {
+	 padding-top:12px;
+}
+/* trailer */
